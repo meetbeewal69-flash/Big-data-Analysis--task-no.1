@@ -1,0 +1,2 @@
+# Spark partitions (shows distributed processing)
+df_clean.rdd.getNumPartitions()
