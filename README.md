@@ -12,3 +12,5 @@ During the project, Apache Spark’s PySpark framework was used along with Pytho
 
 Through this project, I gained a strong understanding of big data concepts and hands-on experience with PySpark. I learned how distributed data processing works, how Spark manages large datasets using partitions, and how it outperforms traditional data analysis tools when working with massive data volumes. I also developed skills in data cleaning, feature creation, and analytical querying at scale. Overall, this project strengthened my knowledge of big data analytics and demonstrated practical skills that are relevant for real-world data engineering and analytics roles.
 **
+*output*
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/bb2057d2-38fe-443d-83be-6d4194100fbb" />
