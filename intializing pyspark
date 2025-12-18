@@ -1,0 +1,13 @@
+pip install pyspark
+from pyspark.sql import SparkSession
+
+spark = SparkSession.builder \
+    .appName("Big Data Analysis - CODTECH") \
+    .getOrCreate()
+
+spark
+df = spark.read.csv(
+    "sales_data.csv",
+    header=True,
+    inferSchema=True
+)
